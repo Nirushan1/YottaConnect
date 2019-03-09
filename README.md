@@ -1,3 +1,3 @@
 # Yotta Connect
-Codiecon 2019 Hackathon (Ongoing)
+Project for Codiecon 2019 Hackathon (Ongoing)
 - By team yotta version
