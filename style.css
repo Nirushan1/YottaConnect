@@ -1,0 +1,97 @@
+body {
+	background-color: #F4EEED  ;
+}
+
+.sub {
+	background-color: transparent;
+	cursor: pointer;
+	border: none;
+	margin: 5px auto;
+	color: brown;
+}
+
+.sub:hover {
+	color: red;
+	text-decoration: underline;
+}
+
+.subCont {
+	background-color: #CA9389;
+	background-image: url("bg2e.jpg");
+	border: 2px solid #A47168;
+	width: 400px;
+	margin: auto;
+	text-align: center;
+	padding: 10px 0px;
+	font-size: 28px;
+}
+
+.title {
+	color: brown;
+	font-size: 85px;
+	font-family: 'ZCOOL QingKe HuangYou', cursive;
+	text-align: center;
+	margin: 10px auto 0px auto;
+	background-color: #F9C6BD;
+	background-image: url("bg2e.jpg");
+	padding: 40px 40px;
+	border: 5px solid #5C5ED0;
+}
+
+.button {
+	height: 30px;
+	width: 400px;
+	align: center;
+	margin: 25px auto;
+	padding-bottom: 2px;
+	display: block;
+	background-color: #F5907E;
+	cursor: pointer;
+	border: 3px solid #A47168;
+	color: brown;
+	font-size: 15px;
+	background-image: url("bg2e.jpg");
+}
+
+.button:hover {
+	opacity:0.8;
+}
+
+.types {
+	background-color: #E6CDC9;
+	margin-top: 0px;
+	border: 5px solid #5C5ED0;
+	background-image: url("bg1e.jpg");
+}
+
+
+#sub1 {
+	display: none;
+}
+#sub2 {
+	display: none;
+}
+#sub3 {
+	display: none;
+}
+#sub4 {
+	display: none;
+}
+#sub5 {
+	display: none;
+}
+#sub6 {
+	display: none;
+}
+#sub7 {
+	display: none;
+}
+#sub8 {
+	display: none;
+}
+#sub9 {
+	display: none;
+}
+#sub10 {
+	display: none;
+}
